@@ -53,7 +53,7 @@ A simple Windows application to track your active window usage time, ignoring id
 Run the Python script:
 
 ```bash
-python screentime_gui.py
+python index.py
 ```
 
 ---
