@@ -97,15 +97,9 @@ To build a standalone `.exe` for Windows:
 
 ---
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## Contact
 
-Created by [Your Name](https://github.com/Saviskar).  
+Created by [Saviskar Thiruchelvam](https://github.com/Saviskar).  
 Feel free to open issues or submit pull requests!
 
 ---
