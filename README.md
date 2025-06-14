@@ -80,7 +80,7 @@ To build a standalone `.exe` for Windows:
 2. Run PyInstaller:
 
    ```bash
-   pyinstaller --noconsole --onefile screentime_gui.py
+   pyinstaller --noconsole --onefile index.py
    ```
 
 3. Find your executable in the `dist/` folder.
